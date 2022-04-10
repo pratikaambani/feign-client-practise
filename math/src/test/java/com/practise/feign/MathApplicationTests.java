@@ -1,4 +1,4 @@
-package com.dev.math;
+package com.practise.feign;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

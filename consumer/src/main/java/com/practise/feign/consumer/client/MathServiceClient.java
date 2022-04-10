@@ -1,4 +1,4 @@
-package com.dev.consumer.client;
+package com.practise.feign.consumer.client;
 
 import io.github.resilience4j.retry.annotation.Retry;
 import org.springframework.cloud.openfeign.FeignClient;

@@ -1,4 +1,4 @@
-package com.dev.math.controller;
+package com.practise.feign.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

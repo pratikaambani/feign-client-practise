@@ -1,4 +1,4 @@
-package com.remotedev.server;
+package com.practise.feign.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

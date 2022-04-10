@@ -1,10 +1,10 @@
-package com.remotedev.server;
+package com.practise.feign.consumer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ServerApplicationTests {
+class ConsumerApplicationTests {
 
 	@Test
 	void contextLoads() {
